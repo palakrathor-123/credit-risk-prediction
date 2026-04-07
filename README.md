@@ -1,4 +1,4 @@
-# credit-risk-prediction
+# Credit-Risk-Prediction
 A Machine Learning based web application that predicts the credit risk of a customer based on demographic, financial, credit history, employment, and loan details.
 
 The system uses a trained machine learning model to calculate the *Risk Score* and classify the customer into *Low, Medium, or High Risk*.
