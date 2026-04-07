@@ -151,5 +151,5 @@ http://localhost:8501
 
 <img width="1325" height="419" alt="Image" src="https://github.com/user-attachments/assets/30b1b6ee-c5ac-4031-a060-3033b76fb25b" />
 ---
-##Author
-### Palak Rathore
+## Author
+Palak Rathore
