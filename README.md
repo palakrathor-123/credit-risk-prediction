@@ -147,7 +147,3 @@ http://localhost:8501
 
 ---
 ## Dashboard Overview
-
-<img width="1325" height="419" alt="Image" src="https://github.com/user-attachments/assets/46056c30-3504-42e9-a0d5-85b4697670f6" />
-
-<img width="1325" height="419" alt="Image" src="https://github.com/user-attachments/assets/46056c30-3504-42e9-a0d5-85b4697670f6" />
